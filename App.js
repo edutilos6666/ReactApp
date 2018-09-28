@@ -23,7 +23,6 @@ class App extends Component {
 
     return (
       <div>
-        <BasicExample />
         {/*That is h1*/}
         <h1 style={h1Style}>Header 1</h1>
         {/*That is h2
